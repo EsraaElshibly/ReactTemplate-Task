@@ -1,0 +1,16 @@
+.thirdSec{
+    margin-top: 20px;
+}
+
+.thirdSec .space {
+    background-color: white;
+    height: 60px;
+}
+
+.thirdSec .leftSec img{
+    width: 80%;
+}
+
+.thirdSec .rightSec p{
+    padding-top: 17px;
+}

@@ -1,0 +1,28 @@
+.dialog{
+    background-color: white;
+    margin-bottom: 50px;
+    padding: 20px 28px;
+    box-shadow: 4px 4px 4px 4px rgb(207, 207, 219);
+}
+
+.dialog h4 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.dialog p {
+    color: rgb(180, 178, 178);
+    text-align: center;
+}
+
+.dialog input{
+    width: 80%;
+    margin-right: 7px;
+    border: 1px solid gainsboro;
+    padding: 8px;
+    background-color: rgb(236, 235, 235);
+}
+
+.dialog .bttn{
+    background-color: orange;
+}

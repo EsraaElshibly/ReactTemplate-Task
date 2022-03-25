@@ -1,0 +1,41 @@
+.footer {
+  background-color: #25292c;
+  padding: 20px;
+}
+
+.footer .butt button{
+  width: 160px;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.footer .social{
+  margin: 30px 0px;
+}
+
+.footer .sec2{
+  margin-top: 20px;
+}
+
+.footer .links a{
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  margin-bottom: 120px;
+}
+
+.footer .social a i{
+  color: white;
+  margin-right: 20px
+}
+
+.footer .line{
+  width: 98%;
+  margin: 20px 1%;
+  background-color: #50565a;
+  height: 3px;
+}
+
+.footer .copyRight p{
+  color: white;
+} 

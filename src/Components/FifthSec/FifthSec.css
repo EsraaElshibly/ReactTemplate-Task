@@ -1,0 +1,13 @@
+.fifthSec{
+    margin-top: 70px;
+}
+
+.fifthSec .leftSec img {
+    width: 90%;
+    height: 100%;
+}
+
+.fifthSec .rightSec p {
+    margin-top: 20px;
+    line-height: 1.7em;
+}

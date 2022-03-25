@@ -1,0 +1,63 @@
+.preLastSec {
+  padding: 40px;
+  background-image: url('https://images.squarespace-cdn.com/content/v1/5be26d06b105984a735b8d1a/1543444285624-HAEUCCHIF70C6CA144ZI/bkgrd5.png?format=2500w');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 700px;
+}
+
+.preLastSec .rightSec h3{
+  color: white;
+  padding-top: 30px;
+}
+
+.preLastSec .rightSec p{
+  color: white;
+  padding: 15px 0px;
+  line-height: 1.8em;
+  font-weight: bold;
+}
+
+.preLastSec .rightSec ul{
+  color: white;
+  padding: 15px 0px;
+  font-weight: bold;
+}
+
+.preLastSec .rightSec ul li{
+  padding: 7px 0px;
+  font-weight: bold;
+}
+
+.preLastSec .line {
+  background-color: orange;
+  margin: 20px 0px;
+  width: 200px;
+  height: 4px;
+  margin-left: 0px;
+}
+
+.preLastSec .design h2 {
+  text-transform: uppercase;
+  font-size: 40px;
+  color: white;
+  font-family: 'Arvo', serif;
+  font-family: 'Lato', sans-serif;
+}
+
+.preLastSec .design p{
+  color: white;
+  text-transform: uppercase;
+}
+
+.preLastSec .design p span {
+  background-color: orange;
+  padding: 5px 10px;
+}
+
+.preLastSec .buttons .bttn{
+  background-color: orange;
+  margin-left: 30px;
+  border: none;
+}
+

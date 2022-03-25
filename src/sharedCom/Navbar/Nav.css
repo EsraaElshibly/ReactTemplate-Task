@@ -1,0 +1,19 @@
+.navbar {
+  background-color: orange;
+  width: 100%;
+}
+
+.navbar-nav {
+  margin-left: 20%;
+}
+
+.navbar-nav .nav-item{
+  font-size: 18px;
+  margin-right: 10px;
+}
+
+.navbar a {
+  text-decoration: none;
+  padding-right: 30px;
+  color: white;
+}

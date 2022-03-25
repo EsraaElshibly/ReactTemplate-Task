@@ -1,0 +1,24 @@
+.fourthSec{
+    margin-top: 80px;
+}
+
+.fourthSec .lefttSec{
+    margin-bottom: 25px;
+}
+
+.fourthSec .lefttSec p {
+    margin-top: 20px;
+}
+
+.fourthSec .lefttSec .bttn{
+    background-color: orange;
+    margin-left: 30px;
+    border: none;
+    width: 280px;
+}
+  
+
+.fourthSec .righttSec img{
+    width: 80%;
+}
+

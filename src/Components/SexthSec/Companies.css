@@ -1,0 +1,24 @@
+.companines{
+    margin-top: 200px;
+    width: 99%;
+    text-align: center;
+}
+
+.companines h3{
+    padding-top: 30px ;
+    font-weight: bold;
+    text-align: center;
+}
+
+.companines .line {
+    background-color:orange;
+    height: 4px;
+    text-align: center;
+    margin: 0px 22%;
+}
+
+.companines img {
+    width: 60%;
+    height: 20%;
+    margin-top: 10%;
+}
