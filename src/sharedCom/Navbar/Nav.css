@@ -10,12 +10,10 @@
 .navbar-nav .nav-item{
   font-size: 17px;
   margin-right: 10px;
-  color: red
 }
 
 .navbar-nav .nav-item .nav-link:hover{
   color: white;
-
 }
 
 .navbar a {

@@ -27,9 +27,12 @@
 
 .line {
     background-color: orange;
-    margin: 20px 0px;
     width: 200px;
     height: 4px;
+    margin-left: 30%;
+}
+
+.liine{
     margin-left: 0px;
 }
 
@@ -69,4 +72,5 @@
     width: 150px;
     height: 50px;
     margin-bottom: 70px;
+    margin-top: 20px;
 }

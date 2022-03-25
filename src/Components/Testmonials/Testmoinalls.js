@@ -52,7 +52,7 @@ state = {
         <div className="commit-style testmonials">
           <div className='container'>
           <div className="testHead">
-              <div className="line"></div>
+              <div className="line liine"></div>
               <h3>Speaking Testimonials</h3>
           </div>
           <Commitee Info = {this.state.cardsInformation} />
