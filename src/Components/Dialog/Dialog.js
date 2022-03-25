@@ -7,7 +7,7 @@ class Dialog extends Component {
         <div className="dialog container">
             <h4>get rory's Influential leaser video course free</h4>
             <p>when you sign up to recive his blog updates via email</p>
-            <input className="input-form" placeholder="Email" type="text" />
+            <input className="input" placeholder="Email" type="text" />
             <button className="bttn">sign up</button>
         </div>
     );

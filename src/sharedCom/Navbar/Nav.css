@@ -4,12 +4,18 @@
 }
 
 .navbar-nav {
-  margin-left: 20%;
+  margin-left: 15%;
 }
 
 .navbar-nav .nav-item{
-  font-size: 18px;
+  font-size: 17px;
   margin-right: 10px;
+  color: red
+}
+
+.navbar-nav .nav-item .nav-link:hover{
+  color: white;
+
 }
 
 .navbar a {
