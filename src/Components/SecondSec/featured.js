@@ -5,6 +5,7 @@ class FeaturedCom extends Component {
   render() {
     return (  
         <div className="featured ">
+            <div className="featuredSpace"></div>
             <h3>Rory's insights have been featured in:</h3>
             <div className="container">
                 <div className="row">

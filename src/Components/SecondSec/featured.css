@@ -8,6 +8,11 @@
     text-align: center;
 }
 
+.featured .featuredSpace{
+    height: 80px;
+    background-color: white;
+}
+
 .featured h3{
     text-align: left;
     color: white;

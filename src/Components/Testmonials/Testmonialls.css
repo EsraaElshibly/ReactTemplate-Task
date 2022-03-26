@@ -27,13 +27,14 @@
 
 .line {
     background-color: orange;
-    width: 200px;
+    width: 80%;
     height: 4px;
     margin-left: 30%;
 }
 
 .liine{
     margin-left: 0px;
+    width: 200px;
 }
 
 .testHead h3 {
